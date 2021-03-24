@@ -2,6 +2,12 @@
     height    : 86px;
     padding   : 13px 20px;
     box-shadow: 0px 2px 35px #0000001A;
+    position  : fixed;
+    left      : 0;
+    right     : 0;
+    top       : 0;
+    z-index   : 10;
+    background: #fff;
 }
 
 .topHeader>div {
